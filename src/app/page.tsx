@@ -6,7 +6,7 @@ import { ShieldCheck, Sparkles, Zap } from "lucide-react";
 
 export default function Page() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-indigo-800 via-purple-800 to-pink-700 text-white p-4">
+    <div className="min-h-screen bg-gradient-to-br from-blue-800 via-blue-300 to-red-700 text-white p-4">
       {/* Navbar */}
       <header className="flex justify-between items-center mb-10 max-w-6xl mx-auto">
         <h1 className="text-2xl font-bold">Better Authy</h1>
