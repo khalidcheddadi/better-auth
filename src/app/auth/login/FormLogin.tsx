@@ -1,6 +1,6 @@
 "use client";
 
-import { FaSignInAlt, FaGithub, FaLock, FaEnvelope, FaEye, FaEyeSlash } from "react-icons/fa";
+import { FaSignInAlt, FaLock, FaEnvelope, FaEye, FaEyeSlash } from "react-icons/fa";
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { toast } from "sonner";
